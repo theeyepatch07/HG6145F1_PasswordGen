@@ -32,6 +32,19 @@ This tool is designed for recovery and educational use.
     -   Admin password\
     -   Wi-Fi password
 
+## Releases
+Version 1.0
+The first public release of the app.
+Simple, lightweight, and effective.
+Focused on one goal: generating admin and Wi-Fi passwords quickly and reliably.
+
+Version 2.0
+A major upgrade with a refined experience.
+Faster, smoother, and more powerful than ever.
+Redesigned interface for better usability.
+Now includes Dark Mode and Light Mode for comfortable use in any environment.
+Improved stability and overall performance.
+
 ## Supported Device
 
 -   FiberHome **HG6145F1**\
